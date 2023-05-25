@@ -46,7 +46,7 @@ Vamos criar o arquivo `index.js` dentro da pasta "api". Este será nosso ponto d
 
 Já instalamos o Apollo Server, agora vamos importá-lo. Por enquanto, queremos apenas o **ApolloServer** do pacote de ferramentas do Apollo:
 
-[![index.js](https://img.shields.io/badge/-index.js-yellow?style=social&logo=npm&logoColor=yellow)](#)
+[![index.js](https://img.shields.io/badge/-index.js-yellow?style=social&logo=JavaScript&logoColor=yellow)](#)
 
 ```javascript
 // Arquivo index.js
