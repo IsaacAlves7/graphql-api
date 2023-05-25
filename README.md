@@ -26,11 +26,15 @@ A outra dependência que estamos instalando agora é o **Nodemon**, que vai ouvi
 
 Vamos começar com `npm install graphql`, que é a implementação referência para trabalhar **GraphQL com Node**.
 
+[![NPM](https://img.shields.io/badge/-npm_install-red?style=social&logo=npm&logoColor=red)](#)
+
 ```sh
 npm install graphql
 ```
 
 Como o GraphQL é realmente só uma especificação, usaremos também o pacote de ferramentas **Apollo** para trabalhar com GraphQL:
+
+[![NPM](https://img.shields.io/badge/-npm_install-red?style=social&logo=npm&logoColor=red)](#)
 
 ```sh
 npm install apollo-server
@@ -41,6 +45,8 @@ O Apollo é uma implementação bem completa do GraphQL, ele já tem as ferramen
 Vamos criar o arquivo `index.js` dentro da pasta "api". Este será nosso ponto de entrada da nossa aplicação.
 
 Já instalamos o Apollo Server, agora vamos importá-lo. Por enquanto, queremos apenas o **ApolloServer** do pacote de ferramentas do Apollo:
+
+[![index.js](https://img.shields.io/badge/-index.js-yellow?style=social&logo=npm&logoColor=yellow)](#)
 
 ```javascript
 // Arquivo index.js
